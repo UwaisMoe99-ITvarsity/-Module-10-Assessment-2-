@@ -32,7 +32,7 @@ body {
 .header {
     background-color: #2196f3;
     height: 100px;
-    width: 1300px;
+    width: 1500px;
     top: 0;
 
     position: fixed;
@@ -216,4 +216,5 @@ body {
     .body-meals {
         background-image: url(images/background-02-land.png);
     }
+
 }
